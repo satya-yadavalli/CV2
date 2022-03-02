@@ -2,6 +2,9 @@ body{
   background-color: #EAF6F6  ;
 
 }
+img{
+  border-radius: 75%;
+}
 hr{
   border-color: grey;
   border-style: none;
